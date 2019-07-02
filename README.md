@@ -7,8 +7,8 @@ Arduino_Bluetooth_Linetracer
   
 블루투스 연결 :  
   
-<img src="./image/bluetooth.png" width="40%"/>  
+<img src="./image/bluetooth.jpg" width="40%"/>  
   
 메인화면 & 조이스틱 조작  
   
-<img src="./image/main.png" width="30%"/> <img src="./image/joystick1.png" width="30%"/> <img src="./image/joystick2.png" width="30%"/>  
+<img src="./image/main.jpg" width="30%"/> <img src="./image/joystick1.jpg" width="30%"/> <img src="./image/joystick2.jpg" width="30%"/>  
