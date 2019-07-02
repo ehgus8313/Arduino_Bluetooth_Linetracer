@@ -15,4 +15,4 @@ Arduino_Bluetooth_Linetracer
   
 RC카 스피드 조절 :  
   
-<img src="./image/speed1.png" width="40%"/> <img src="./image/speed3.png" width="40%"/>
+<img src="./image/speed1.jpg" width="40%"/> <img src="./image/speed3.jpg" width="40%"/>
